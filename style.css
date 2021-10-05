@@ -48,13 +48,14 @@ img{
 .content h1{
     /* font-family: 'Red Hat Display', sans-serif; */
     margin-bottom: 10px;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 900;
 }
 
 .content p{
     /* font-family: 'Red Hat Display', sans-serif; */
     font-size: 16px;
+    line-height: 30px;
     font-weight: 700;
     color: gray;
     text-align: center;
