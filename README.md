@@ -8,7 +8,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 
 
-![alt text](https://github.com/[joaomonteiroSN]/[order-summary-card]/blob/[master]/image.jpg?raw=true)
+![alt text](https://github.com/joaomonteiroSN/order-summary-card/blob/be837769b47ebce2d5f464822a9729fea09ec142/images/ss.png)
 
 
 
