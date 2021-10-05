@@ -8,7 +8,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 
 
-![](C:\Users\João\AppData\Roaming\Typora\typora-user-images\image-20211005154336215.png)
+![](images\ss.png)
 
 
 
