@@ -79,6 +79,10 @@ img{
     margin-left: auto;
 }
 
+.change-plan-a:hover{
+    text-decoration: none;
+}
+
 .buttons{
     display: grid;
     width: 80%;
@@ -98,6 +102,10 @@ img{
     box-shadow: 5px 10px 15px hsl(224, 23%, 55%);
 }
 
+.button-proceed:hover{
+    background-color: hsl(224, 23%, 55%)
+}
+
 .button-cancel-order{
     font-family: 'Red Hat Display', sans-serif;
     font-weight: 500;
@@ -107,4 +115,9 @@ img{
     font-size: 15px;
     padding: 10px;
     border-radius: 10px;
+}
+
+.button-cancel-order:hover{
+    font-size: 16px;
+    font-weight: bolder;
 }
