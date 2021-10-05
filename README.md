@@ -8,7 +8,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 
 
-![](images\ss.png)
+![Screenshot](images\ss.png)
 
 
 
